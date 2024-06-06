@@ -40,7 +40,7 @@ body{
 }
 
 .manual-btn {
-    border: 2px solid #fff;
+    border: 2px solid #000;
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
@@ -92,7 +92,7 @@ body{
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1 {
-    background-color: #000;
+    background-color: red;
 }
 
 #radio2:checked ~ .navigation-auto .auto-btn1 {
