@@ -31,10 +31,6 @@ body{
     transition: 2s;
 }
 
-.slide img {
-    width: 500px;
-}
-
 .manual-navigation {
     position: absolute;
     width: 800px;
