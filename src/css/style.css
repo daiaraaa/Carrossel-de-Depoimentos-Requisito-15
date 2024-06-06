@@ -41,7 +41,6 @@ body{
 
 .manual-btn {
     border: 2px solid #000;
-    backgroun-color: #fff
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
@@ -53,7 +52,7 @@ body{
 }
 
 .manual-btn:hover {
-    background-color: #000;
+    background-color: #fff;
 }
 
 #radio1:checked ~ .first {
