@@ -52,7 +52,7 @@ body{
 }
 
 .manual-btn:hover {
-    background-color: #000;
+    background-color: #fff;
 }
 
 #radio1:checked ~ .first {
@@ -92,7 +92,7 @@ body{
 }
 
 #radio1:checked ~ .navigation-auto .auto-btn1 {
-    background-color: red;
+    background-color: #000;
 }
 
 #radio2:checked ~ .navigation-auto .auto-btn1 {
